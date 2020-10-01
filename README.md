@@ -1,5 +1,5 @@
 # custom
-Stuff I customized for myself, feel free to use it if you want to.
+Customized Windows Terminal that I use.
 
 # Author
 Eshaan Kumar,
