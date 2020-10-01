@@ -1,5 +1,5 @@
 # custom
-Customized Windows Terminal that I use.
+Stuff I customized for myself. Feel free to use them if you want.
 
 # Author
 Eshaan Kumar,
