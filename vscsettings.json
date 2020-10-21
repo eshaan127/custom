@@ -1,0 +1,20 @@
+{
+    "files.autoSave": "afterDelay",
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+    "window.zoomLevel": 0,
+    "editor.copyWithSyntaxHighlighting": false,
+    "workbench.colorTheme": "Atom One Dark",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "workbench.colorCustomizations": {
+        "titleBar.activeBackground": "#570a0a18"
+    }
+    "editor.tokenColorCustomizations": {
+        "comments": "#570a0a18"
+      }
+      "editor.tokenColorCustomizations": {
+        "[Material Theme]": {
+            "semanticHighlighting": true
+        }
+    },
+
+
