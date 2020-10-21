@@ -1,8 +1,11 @@
 # custom
 Stuff I customized for myself. Feel free to use them if you want.
 
-# settings.json
+# poshsettings.json
 My Windows Terminal settings.json file, makes the background image/opacity for it.
+
+# vscsettings.json
+My VSCode color scheme
 
 # Author
 Eshaan Kumar,
