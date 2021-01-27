@@ -7,6 +7,9 @@ My Windows Terminal settings.json file, makes the background image/opacity for i
 # vscsettings.json
 My VSCode color scheme
 
+# discord.bat
+A simple batch script to run whenever your Discord doesn't work, it does a clean restart and re-opens it for you.
+
 # Author
 Eshaan Kumar,
 My GitHub: https://github.com/eshaan127
